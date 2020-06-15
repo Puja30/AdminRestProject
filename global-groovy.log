@@ -1,0 +1,18 @@
+2020-06-15 11:00:18,619 INFO  [log] username = upskills_admin
+2020-06-15 11:00:18,620 INFO  [log] password = Talent4$$
+2020-06-15 11:00:19,558 INFO  [log] access token is : ba489f69c8f3750eb9838a8675edfa615ce28cb7
+2020-06-15 11:00:19,581 INFO  [log] HTTP status code: 200
+2020-06-15 11:00:19,581 INFO  [log] Access Token validated
+2020-06-15 11:00:19,915 INFO  [log] HTTP status code: 200
+2020-06-15 11:00:19,915 INFO  [log] Access Token validated
+2020-06-15 11:00:19,919 INFO  [log] Username = upskills_admin 
+2020-06-15 11:00:19,920 INFO  [log] Username validated
+2020-06-15 11:00:20,232 INFO  [log] productId = 829
+2020-06-15 11:00:23,412 INFO  [log] categoryId = 853
+2020-06-15 11:00:25,401 INFO  [log] HTTP status code: 200
+2020-06-15 11:00:25,401 INFO  [log] GetCategoryById method is successfull
+2020-06-15 11:00:25,590 INFO  [log] level = 138
+2020-06-15 11:00:27,366 INFO  [log] HTTP status code: 200
+2020-06-15 11:00:27,367 INFO  [log] Method validated correctly
+2020-06-15 11:00:27,846 INFO  [log] HTTP status code: 200
+2020-06-15 11:00:27,846 INFO  [log] Logged out successfully
